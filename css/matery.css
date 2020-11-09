@@ -39,6 +39,7 @@ body {
     color: #34495e;
     overflow-x: hidden;
     overflow-y: auto;
+    background-image: url(../medias/banner/6.jpg);
 }
 
 h1 {
